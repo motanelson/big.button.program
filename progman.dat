@@ -1,0 +1,7 @@
+[programs]
+notepad = c:\windows\notepad.exe
+calc = c:\windows\system32\calc.exe
+
+[paint]
+paint =pbrush.exe
+
